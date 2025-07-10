@@ -1,0 +1,20 @@
+[package]
+name = "mokuya"
+version = "0.0.1"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pas2rust/mokuya"
+readme = "README.md"
+exclude = [
+    "tests/*",
+    "tests",
+    "main.rs"
+]
+categories = ["development-tools", "parser-implementations"]
+description = "Generic procedural macro helpers for parsing, type analysis, and derive macro generation."
+keywords = ["proc-macro", "syn", "type", "macro", "codegen"]
+authors = ["pas2rust <pas2000@proton.me>"]
+homepage = "https://github.com/pas2rust/mokuya"
+documentation = "https://docs.rs/mokuya"
+
+[dependencies]

@@ -1,6 +1,6 @@
 [package]
 name = "mokuya"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/pas2rust/mokuya"
@@ -18,3 +18,8 @@ homepage = "https://github.com/pas2rust/mokuya"
 documentation = "https://docs.rs/mokuya"
 
 [dependencies]
+syn =  "2"
+quote = "1"
+colorful = "0.3"
+chrono = "0.4"
+proc-macro2 =  "1"

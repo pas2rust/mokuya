@@ -2,7 +2,14 @@
 
 [![Crates.io](https://img.shields.io/crates/v/mokuya.svg)](https://crates.io/crates/mokuya)
 [![Docs.rs](https://docs.rs/mokuya/badge.svg)](https://docs.rs/mokuya)
-[![License](https://img.shields.io/crates/l/mokuya.svg)](https://github.com/pas2rust/mokuya/blob/master/LICENSE.md)
+[![License](https://img.shields.io/crates/l/mokuya.svg)](https://github.com/pas2rust/mokuya/blob/main/LICENSE)
+![GitHub top language](https://img.shields.io/github/languages/top/pas2rust/mokuya?color=orange&logo=rust&style=flat&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/pas2rust/mokuya?color=success&style=flat&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/pas2rust/mokuya?color=orange&logo=Furry%20Network&style=flat&logoColor=white)
+![Tests](https://raw.githubusercontent.com/pas2rust/badges/main/mokuya-tests.svg)
+![Crates.io downloads](https://img.shields.io/crates/d/mokuya.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/pas2rust/mokuya?color=ff69b4&label=update&logo=git&style=flat&logoColor=white)
+
 
 `mokuya` is a utility crate that provides adapters and helpers for writing Rust procedural macros. It simplifies common tasks when working with `syn`, `quote`, and `proc_macro2`, and is designed to help authors build robust and reusable macro code.
 
